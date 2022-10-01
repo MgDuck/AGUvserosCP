@@ -1,0 +1,1070 @@
+﻿Download all mp3 files of calls to disk
+Delete mp3 call files from the server before 01/01/2019
+configuring DNS on cloudflare
+Find out if the reason is broken replication or not
+Deal with the replication problem
+Deploy jira server locally import backup from our jira
+Upgrade new jira server with desired version 8.7.1
+Deal with an error when importing a dump config-dump_BMO9-JLHQ-CR1F-68I8_0_PROJECTS.zip
+Research on automatic migration of swift domain records, records migration.
+Check imported entries, compare with bind config
+Find out how to switch the DNS server from Taxi to CloudFlare
+Preparing for the switch, find out the urls used, compare and double-check dns records.
+Drivers cannot click on the "on the spot" button and complete the order
+The fare category in the fare card is not always autofilled
+Add an ip address from the list of allowed connections to namba.swift.kg
+Incoming calls do not reach the operator's room
+Content in order cards takes a long time to load
+Callback to short number 9797
+Swift hangs, calls are not received, the inscription "Registered" has disappeared in the dialer
+The operator and manager rooms hang up, the tariff category is not loaded in the order card, etc.
+Fill out the form for Beeline. Short code platform update
+On outgoing clients it is not audible for all operators
+Test Cases and Testing of the Application
+Job flow finalizing fixes
+testing
+Client Feedback on Final Test
+Updated behavior when Job In Progress
+Display Company Name for Customer
+Client Feedback on Final Test 3
+Client Feedback on Final Test 4
+Algorithm doesn't appear to be working correctly
+Unknown Job / Can't find job in back end
+Can't view a job in back end with Status Requested
+Job at state No Provider found and create a new one
+Images aren't being displayed
+Paste Google Dynamic Remarketing Code into the Markeplace (edumall.co.th)
+Paste Google Dynamic Remarketing Code into the Markeplace (edumall.vn)
+Check the prices in jackfruit_course database
+Import more table to data lake
+Research COD flow
+Recovering password doesn't work on both iOS and Android
+Cannot change password on website Edumall
+Recovering password endpoint doesn't work on both iOS and Android
+Integration COD test
+Can't login to LMS staging Vietnam
+404 error pages in sitemap (ETL)
+Check main.CRITICAL: SQLSTATE errors after the deployment
+Check main.CRITICAL: Illegal scheme supplied errors after the deployment
+Prepare universal handler for insider windows
+Create the IAP purchases item for each course amount
+SMSs have not been sent to customers
+Research COD process on TL version
+Change the logic and UI of countdown clock
+Change the button link in the Online payment thankyou page
+Change Keyboard to be number pad
+Resize all images on payment page
+Auto save and auto fill card info
+Change font on the payment page
+mismatch data in minerva/bifrost and Omise system
+Create a list of courses using prices for IAP
+Make online payment test for Edumall.co.th
+Research COD payment flow
+Postpone execution of 3rd party scripts (Freshchat only, ETL)
+switch to file based bundle
+Refused to apply style on category page at https://edumall.vn/
+error during deploy through pipeline (TH&VN)
+Create COD flow documentation
+LMS basic test
+Fix bundle products markup
+Actualize e2e tests
+Error in the display price in the production
+Install Mageplza Blog module
+Customize Sitemap for blog pages
+Customize blog styles for home, categories, tags, post pages
+Add blog links to header and footer
+Add open graphs
+Add image resize
+Change url structure for blog posts
+Add checker to show and hide blog
+Add translations
+Testing and bugfixing
+Remove images from sitemap for EVN
+Logic of countdown clock in Payment Page
+UAT for COD ETL
+Update Google Ads tag code (dynamic remarketing code) into the Marketplace (edumall.vn)
+No styles in one category
+Order to fix: audit result & save root cause
+Lỗi EPC không tải trang được
+Line red cannot calling out from system: Audit result & root cause.
+ipphone problem: push & audit result
+Check http://static.edumall.vn errors
+Check and fix CI/CD for magento-mobile-api error
+0 - Hide/Disable Help button on the student's dashboard
+Spelling mistakes
+Watermark for lesson preview
+Job title section in Account page
+Random Avatars for students
+GA: Are we tracking clicks to "use this lesson" on the lesson pages. If we can't set this up
+Fix mail templates
+Client Feedback on Final Test 2
+Provider can't choose to Cancel Job when asked for update on progress of the job
+No services currently showing as available
+Display and Login issues on iPhone 6 Safari
+How does date_picker work in service fields / is it not working
+Show job quotes at the Searching state of job for Customer if any.
+Long loading of the "Tariff category" and "Requirements" lists in the order card
+Transfer of the NambaTaxi project
+Fix broken reports in namba.swift.kg
+Organize the process of transferring the remaining accesses for the NambaTaxi project
+Solve call problems
+Remove the tariff selection window and transfer the tariff selection functionality to the order confirmation window in the client application (Android)
+Attach Firebase and GitLab bots to NambaTaxi Slack
+The main problems for corp. department (as of January 2020)
+Migrate NambaTaxi tasks from pm.maddevs.co to nambataxi.‍atlassian.‍net
+Review of MPs on updating Map Box in the client android application
+Clear the project backlog of irrelevant tasks
+During authorization, the user/driver does not see orders. (driver app)
+Need to correct indents and size of whiteboard canvas in the student's app
+Need to correct the logic of opening dropdown tools
+[Backend] Need to change validation for the change password form in the student's app
+[Teacherly website] Update Audio courses to free on website
+Prepare the AssignmentPreview component for this component
+Work on the layout of the whiteboard toolbar
+Work on logic of switching this toolbar and showing components inside
+[Student's app] Problems with text elements in the AssignemntPreview component
+Website: Need to update the t&cs and privacy doc on website
+Need to fix bug with the whiteboard text element
+Lesson full-screen mode doesn't work on the iPad devices
+Need to make the same page layout in student's app
+Need to add layout for the live lesson controls
+Research the prismic features and give a rough estimate
+Connect the UI-components library from bit.dev
+Create the section with lesson list on the resources page
+Create a page to view the post with lesson
+Configure adding lessons to the site via prismic
+Configure redirect from the "Use this template" button on the teacherly website
+Pass the cover phase to phases list
+Need to update text in the “Buy” button from “Free until 6 Dec” to “Free for December”
+Show message for empty section with lessons
+Need to transfrer the new cover phase in student's app
+Fix the display of fonts for text elements of the preview lesson component
+Remove the PhaseTime component from phases
+Pass the cover phase to preview lesson component
+Block interaction with lesson elements
+Adjust the height of the right sidebar
+Connect prismic to slate.teachery.io
+Need to display the counter of the lesson usage
+[Sentry][Frontend] Null is not an object in the TeacherTemplateEditor component
+Need to add the "More" button for live lesson controls
+Need to fix height of live lesson page on iPad(100vh)
+Need to correct with of PhaseSwitcher control
+[iPad] The bottom controls are hidden outside the page
+Problems with border-radius styles in Safari browser
+Quiz should open in the separate tab
+Lesson edit page crashes when clicking the preview button
+Need to update bit token
+Need to add handle additional prop for AssignmentPreview, depending on which the quiz will open in the new tab
+Need to fix bug with paddings for the Button ui component
+[UI-components] Input component does not work correctly
+[Routes] Remove the /new-design prefix for new layout
+Need to write the unit-tests for AccountSettings components
+[Sentry error] Need to check - ailed to execute 'querySelector' on 'Document' message
+[UI-components] Incorrect position of placeholder inside the Input ui-component
+Need to configure routes for teacher register page
+Need to move the logic of tutor registration to teacher registration
+Need to test changes and remove unnecessary files
+Need to add layout for google classroom tab
+Add logic for google classroom integration
+[Teacher's app] Need to fix the bookmark icon for lessons in the lesson library page
+Need to add the ability to hide the clear button for Input component with isSearch type
+0 - Need to update layout for toast notification's in the student's app
+0 - The long name and status of assignment-item is displayed incorrectly
+[Student's app] Need to change payload for assignments
+Need to prepare payload for the new Cover phase in the student's app
+(Kirill, Slava) Update restrictions on Free Plan
+(Roman, Ulan) New modals and media library
+(Roma, Slava) Enhance dashboard and canvas (Small wins)
+CPD - Stage 1 (MVP)
+(Dan, Slava) Improve text tool (draft.js) on the canvas
+Copied onboarding template doesn't copied as lesson
+Onboarding template has to have Author Teacherly data on the card
+Bugs with quick templates and onboarding templates
+Handle background image/color on assignment in student statistics (Class, Student tab)
+[Safari] The 'Media not supported' modal window is called up after applying backward and switching to a phase.
+Handle background image in 'create assignment' and 'choose lesson in unit' modals
+Ability to turn on and turn off for the theme
+Teacher cannot type search query in search field inside Teacherly tab
+Need to delete backgrounds word inside collection
+Class automatically doesn't added for student
+Action under Begin lesson and Continue lesson on the dashboard should start a lesson in full screen mode
+The search field is not loaded with the lessons on the My lessons and Lessons library page
+When switching from the Lessons library to My lessons, lessons cards are shown incorrectly
+Teacher cannot see assignments in class but they are created
+Application brakes when teacher goes to Student tab in Class
+Need to fix mark up on mobile resolution
+Standards have bold font
+Field with long name on the canvas in 1 line state when you try to rename
+Sign up form feedback
+/new-design brakes on staging
+Test live lessons and whiteboard on staging
+Issues with mark up and feedback after demo
+1 - Rename Professional Development to CPD and update the color
+Deploy live lessons to production
+0 - Replace icons in canvas header
+0 - Replace icons in top toolbar on the canvas
+0 - Upgrade to Pro button
+3 - Support colors from media library in background modal on cover and phases
+4 - Bugs in background modal mark up
+Disable whiteboard feature on Free plan
+Ability to turn on/off whiteboard
+update library
+Only assignment creator could start live lesson
+1 - When switching slides, the entire interface shifts
+0 - Join live lesson button works incorrectly
+2 - Assignment Card duplicates in slider on dashboard
+1 - Buttons logic for quizzes on Dashboard works incorrectly
+0 - Quiz in clickable in assignment with Not viewed status
+0 - Action under Begin lesson on Dashboard doesn't transfer lesson to In progress status
+1 - Issues with notifications
+Show screen on Free plan when teacher starts live lesson + prompt with whiteboard
+0 - Assignment content doesn't load when student goes to assignment in Missed and Finished statuses through Notification
+1 - Student cannot join to live lesson from class when assignment in Complete status
+5 - Images modal
+12 - Video modal
+Add in /api/teacher/lessons/recent onboarding templates
+Divide teachers from lumici trial organization to each own
+Onboarding template doesn't have Tutorial subject
+Published templates show in My recent templates
+Delete classes on slate
+( Danik ) Update pagination structure
+[PHP] Increase code coverage: Controllers (59.60% → 63.14%)
+[Current] Make restriction Create workspace from 3 to 1
+[Current] Ability to add lessons from the Lesson library page (Now - 10, need to have - 5)
+3 live lessons with 25 minutes on Free plan and 45 minutes for Pro, Team and Enterprise
+Email for case when a teacher assigns lesson to a student (student will receive this email)
+Create assignments
+Website: Cast teacherly - close site and put on redirect to podcasts on website
+Add TXT in DNS for teacherly.io
+Set up redirects for lumici.co.uk and from this domain to teacherly.io
+Set up redirects from lumici.co.uk to teacherly.io
+Set up redirections for slate
+check whiteboard on ipad
+Create accounts on slate for pentest people
+Not passed quiz without attempts to retake breaks
+Website: add purple banner on website's homepage
+Website: Copy updates to homepage and feature pages
+Incorrect mark up for new assignment preview on iPad
+Incorrect quiz behavior in student dashboard
+Incorrect buttons behavior
+Incorrect text rendering in student's assignment preview
+Website: Update the 'get involved CTA' to the resources section
+Show lessons on the website using prismic
+[iPad] In live lesson canvas reduces size if user switches to another application and returns to browser
+Share through Pinterest doesn't work
+Check placeholder image and text from Meta description
+Ability to reset background
+(Kirill) New sign up flow
+2 - Check tests and cover code with tests
+Tests+Refactoring: Student dashboard
+Remove free for December button from website
+9 - Add weblink modal
+Update pricing page on website
+Add information on the website about restriction with classes
+Update information on the website
+0 - Mark up issues with AssignmentItem on Dashboard
+0 - Incorrect truncate for assignment name inside details
+2 - Incorrect alignment of text to the Dislike icon in a lesson with Completed status
+0 - Update picture for notification sidebar for empty state
+0 - [Blocker] There is no icon for class on Journey page
+Add data-attribute to buttons in teacher part
+7 - Standards modal
+Remove restriction from Evaluation
+Update link on the website
+Provide icons for google docs, slides and spreadsheet
+Provide login page design
+Replace icon with new counter on lesson page on the website
+Update errors pages with new design
+Rename Lesson library and Teacherly templates pages
+Update wording in Create assign modal
+Replace color with color
+In My recent lessons and Upcoming assignments lessonItem without truncate
+Update wording on Evaluation page when there is no one feedback from student
+User cannot apply theme&layout
+Create class - Ability to create only 1 class on Free plan
+Mastery skills don't update instantly on the cover
+(Mike, Kirill) New upgrade promts + illustrations
+Design for time counter
+Design for screen when Live lesson on Free plan ends
+Delete facebook pixels from teacherworkload.club and teacherinprogress.chat
+Prepare environment for working with features and estimations
+Create high-level document which describes what is CPD product
+Check student dashboard on dev server after refactoring
+10.3 - Media management tool
+Manually test and handle error messages and states
+Connect fetch collections api to a page
+UI components: Recent templates do not inherit icon and color from quick and onboarding templates
+Check Addpipe costs and video restrictions
+Sync with Dima and Test forestadmin instances
+Display Tutorial as Subject name in recent templates
+[UI] - Bind S3 media file upload in Canvas cover
+Refactor FileLoader to separate component aware of new logic upload
+window.dataLayer is undefined
+Display cover background in Lesson Templates
+Populate Color modal with all colors
+Integrate api with set color as background
+UI: Implement search images from resources in cover backgrounds
+UI: Display recent media in a modal window
+Implement cover upload from google drive
+Update Recents in UI after background is used
+Display cover icons in assignment list
+Display covers on quick templates on dashboard
+Display cover on upcoming lists on dashboard
+Display covers in My templates when managing quick and onboarding templates
+Resolve build issues
+Allow Edit Published Templates from Library Templates page for Managing publish Templates organizations
+Allow Delete Published Templates from Library Templates page for Managing publish Templates organizations
+Create new UI app repository and bootstrap react application
+Markup Login page
+Connect Login page to store and API
+Add unit tests for components
+Markup collections list table component
+Cover collections list component with tests
+Markup Image uploader component
+Markup color picker component
+Markup Change collection name description component
+Markup page component
+Connect Image uploader - [get list of images] to API
+Connect add new image to a theme to api
+Connect list of colors to api
+Connect delete image / color from collection to API
+Cover page component with tests
+Cover Image list uploader with tests
+Cover Color picker with tests
+Connect change theme name description to api
+Cover change theme name description with test
+Manually test error states and handle them
+Markup header on all pages
+Connect logout to API
+Markup Empty states for Image picker component
+Debug Ecommerce Enhancement purchase event not triggered
+Change Thank you pop up to a page
+Refactor Background Image picker
+Implement Background Image picker in Canvas
+Connect get a theme to a page
+Handle automatic logout on token expire
+Prepare app source files for the deployment
+Front sends remember always no matter remeber Me is checked or not
+Enable Teacherly backgrounds in covers
+API failed to respond not handled
+Fix camelcase errors
+Code Refactoring
+Get the list of public lessons for Sally
+Move Google API services to devs@teacherly.io
+Move Dropbox API to devs@teacherly.io
+Research ChargeBee API documentation
+Research Oak Integration into Teacherly
+Investigate disabled LinkedIn App on production
+Communications (Dan)
+Implement Camera device firmware update
+UI components: Published date doesn't display for quick and and onboarding template item in My templates
+Can't bulid teacher ui app
+Setup staging and production servers for management app
+Allow AssignmentPreview go fullscreen from props
+ModalAction onAction doesn't trigger
+Research Measurement Protocol for Enhanced Ecommerce purchase plan tracking
+Implement Measurement Protocol Event Tracking for user-signin-success event
+Implement Measurement Protocol Event Tracking for user-signup-success event
+Empty drop-downs when student joins live lesson
+live lesson whiteboard
+Cannot read property 'concat' of undefined
+1 - Quiz Create takes too much time
+1 - Manage questions button is not working at the teacher site
+[Notifications] Implement "Mark all as read" and "Clear all" buttons
+Standards modal markup is broken at Canvas page
+Lagging pointer at the live lessons
+Page crashes at student part when teacher leaves the lesson
+Echo issue at student side
+Fix View assignment link for student
+Add notification for students when teacher mutes all students
+Fix wording for student when he/she leaves from the lesson
+Redesign name at the student preview video
+Scroll is not displayed if there are more than 6 students in the live lesson
+Lower the quality of the student's video
+Elements drawn by teacher partially disappear on student side
+Show avatar (if exists) or initials instead of black screen when video is turned off
+Make single color for fill and stroke
+Issue with showing subject list, when screen zoom is 100%
+Student's page crashes when teacher switches camera/canvas several times
+Teacher and student not seeing their own initials at the avatar icon
+Video is not displayed after reconnect
+Icons duplicate after re-connect
+Error 422 when visiting student dashboard from microsoft edge
+Students hear each other while teacher is disconnected
+No way for student to leave the lesson while waiting teacher to connect back
+"Assignment not found" screen appears before each live lesson start
+Lesson cover breaks after page refresh
+Sound indicator is not working properly in settings modal
+Center student icon vertically
+Teacher is not able to scroll standards at the lesson cover
+On the big screen "View assignment" text in the button scales
+[Live lesson] Handle entering from more than one device under the same account
+Teacher video disappears after playing with settings
+Student camera turns off after overclicking on it
+Students cannot hear teacher, when teacher turns off the "Students can hear each other" option in setting
+Clicking on the left arrow in the student list does nothing
+Muted mic automatically unmutes after teacher leaves the lesson
+User icon is too small at the wait screen
+[Show to Vlad] Lately connected student does not follow the teacher's phase and is being dropped to cover phase
+Big padding at the right side of the "You have been muted" modal
+Left slider button closes half of the face, when in the leftmost position
+Handle case when teacher tries to start live lesson for expired lessons
+Incorrect teacher name format at the student side
+Remove touch scroll on iPad
+Display connection indicator
+[Live lesson] Connection checker before entering live lesson
+Some students hear each other event when teacher turns off setting
+Camera doesn't turn off after live lesson is finished
+Time starts counting from 0:00 after 1h has passed
+Add cancel button before lesson start
+[Whiteboard] Students don't any changes when teacher rapidly deleted see many objects
+Student is not able to see quiz
+0 - [Blocker] Assignment is not loading when student clicks on "Back to the lesson" button
+1 - Change assignment type to in progress by clicking join live lesson button for not viewed lesson
+1 - Rename Go live button to Join Live lesson
+1 - [Feedback modal] Click event works only at the 👍👎 buttons
+0 - [Blocker] Incorrect links to classes, assignments etc. in Notifications
+Make "comment" field at /student-dashboard/assignments/:id/feedback not mandatory
+Teacher is not able to see own lessons from other workspaces
+Create HR accounts
+1 - Student is not getting notification when assignment dates changed
+1 - Student does not get notification when lesson is In Progress
+Handle special symbols while generating Agora token
+Research e2e integration tests
+Create teacher tests with different plans
+Populate subscriptions data on staging
+Plan Agora test session and create test accounts for team
+Research testing framework
+Agora test cases
+Test updated Assignment logic at student site
+Revise bugs and actualize bug statuses
+test inputs on dev server
+2 - Last phases of assignment are not visible at assignment preview
+Two points still appear on student side
+Issue with cover border in Safari browser
+Tooltips don't disappear when you select tool on iPad
+Violet color is not visible at the lesson phase
+No margin on the teacher and student icons at the top bar on iPad
+Subject is not displayed for student during live lesson
+1 - "Today" button is not hidden, for current day
+Fix markup in Agora settings modal
+Fix markup for "You've been muted" modal
+2 - Fix space between progress buttons at the Dashboard page
+0 - Truncate long class name at the class item at the dashboard page
+2 - For empty states fix width for text element
+1 - Fix wordings for filter buttons at the Dashboard page
+2 - White stripe appears at the top of the screen when student navigates from Schedule to assignment
+2 - "Available" status for lessons is no longer exists in Schedule Day tab
+2 - Page elements slightly shift to the left while expanding
+0 - Quiz results page markup is broken
+1 - "No outcomes for this lesson" text is not centered at the student profile
+1 - Incorrect quiz name is displayed at the student dashboard
+Change tab title when student visits Dashboard page
+[Schedule] Student unable to see all assignments page
+[Invite to the team modal] Make Invite link field read only
+Markup is broken at the Invite student modal
+Button at the right of the canvas are not displayed
+[Invite to the team modal] Unable to switch between "Can View/Can Edit"
+Show Upgrade modal when teacher with free plan wants to create on more class
+[Student Dashboard] Student gets error page when logs out from the system
+[Schedule] Markup is broken on schedule page on iPad
+Assign modal markup is broken on iPad in portrait mode
+Classes list: class tile duplicates after visiting
+Rename "My lesson templates" to "My lessons" at the Teacher dahsboard
+Wrong data on tiles at the classes list
+Replace 'template' word with 'lesson' whole platfrom
+Wrong wording on successfully completed quiz in lesson preview mode
+[My profile] replace default cursor with hand
+[Schedule] Assignment tiles are not centered at the schedule page
+[Profile page] Fix Lesson -> Quiz "Result" button's font size
+[Feedback modal] Replace feedback labels with placeholders and update the wording
+Fix typography at the Notification drawer
+2 - [Schedule] At the Month filter border of current day changes width while page loading
+[Student Dashboard] Fix icons in Feedback modal
+Lesson/LessonController.php
+Front: add 'edit' and 'delete' buttons for lesson in lesson library for workspaces with manage_published_templates = true
+Notifications + counts in same request
+Add unit tests
+Apply onboarding template with customization data
+Apply quick_template with customization data
+Student can be session-logged via teacher login form and stuck between apps again
+Add Tutorial subject
+Hide tutorial subject in lesson planning in non-navigator workspace (manage_onboarding_template)
+ToDo List: backend
+Onboarding Steps model, CRUD logic
+Onboarding Steps handlers
+Upd. User model - add (bool) onboarding_steps_completed and json in data
+Onboarding Steps Service + logic (create, check handlers, convert user's data)
+unit tests
+User profile response with steps status
+social login: registered flow before user actually logged (apply onboarding templates)
+Add migration steps
+Revise swagger documentation ways
+Move 'in-code' documentation to separate folder
+Transfer existing documentation to new schema (YAML or JSON)
+Make 'swagger markup convention' wiki page
+Refactor student journeys endpoint (reduce queries amount)
+Research and estimate backend for prismic integration
+Backend: Integration endpoints and logic
+Export lessons list outside platform (endpoint)
+Cloned/Copied lesson counter
+Clone template via redirect to specific endpoint
+Ability to edit published lessons from specific workspace
+Lesson clone deadlock
+Student -> incorrect /lessons response
+Resolve assets problem after deletion
+Add clones_count into lesson preview payload
+Configure forest-admin panel and server
+Undefined index: delete in PhaseResource
+Fix types in standards
+Configure forest admin for class deletion
+Debug and fix broken requests with 200 status code and incorrect payload
+APM middleware - move sending statistics to job in queue
+Incorrect phase_command `data` field in lesson id 6761
+Fix forest admin - phase_commands table
+Custom ApmAgent wrapper
+APM - convert backtrace to serializable object (closures problem)
+Endpoint for concrete lesson info
+Password validation regex error
+Research tests coverage summary
+Auth (75.64% → 95.73%)
+AdminLoginController.php
+HRPasswordController.php
+SocialLoginController.php
+TeacherPasswordController.php
+TeacherLoginController.php
+RegisterTeacherController.php
+RegisterInvitedStudentController.php
+Admin (74.55% → 100%)
+OrganizationController.php
+UserController.php
+LessonController.php
+Decrement quantity on teacher invitation cancel
+Check ordering direction, force to 'desc' if direction incorrect
+Research possibility of mastery skill deletion via user deletion flow
+Add new restrictions, limit token ttl
+Remove `upcoming` from assignments-list
+Job for live session autocompleting
+Add status and counter to live_sessions model response
+ends_at field in AssignmentLiveSession schema
+Add stand alone queue worker
+Research APM authorization
+Resolve conflicts
+Researches and descriptions
+handle backend
+Backend: add organization_limits table
+Refactor existing counters logic (templates_num + live_sessions_num)
+Move counters data from organization table
+Docker: You have reached your pull rate limit.
+Tune apache - increase ServerLimit and MaxClients
+AssetController.php
+LiveSessionController.php
+UserController.php
+InviteController.php (little refactoring, not a test)
+AssessmentTopic/AssessmentTopicController.php
+AssessmentTopic/TopicGroupController.php
+AtlSkill/AtlSkillController.php
+DesignerCollection/DesignerCollectionController.php
+Lesson/QuestionController.php
+Lesson/QuestionObjectController.php
+Lesson/PhaseController.php
+Lesson/LessonAssignmentsController.php
+Lesson/LessonCommentsController.php
+Media/MediaLibraryController.php
+Complete class deletion + forest admin
+Project Architecture schemes
+Forest Admin: Add manage designer collections functionality
+Add access rights to push/pull to the registry
+cover background image
+Recent pictures
+Media files management tool for designers
+Migration with subscription to enterprise
+Create media_library and recent_media tables
+Filling recent media table logic
+Fix DataSeeder issue with duplicate entry in subjects table
+Check the issue with timeout on recent-invited-collaborators endpoint
+Set lesson background from recent
+Add Google Drive source
+token can be nullable
+DB structure for the tool
+Add routes for the tool
+Organization can manage designer collection
+Test for recent media logic
+Search in designer collections endpoint
+Research upgrade PHP to 7.4
+Add backgroundCover for endpoint api/teacher/classes/2/students
+Test for designer collection items
+Reset lesson cover logic
+Check the execution time exceed issue
+Check double entries in subscription history
+Teacher session expiration
+Login, logout routes for designer collection tool
+Check which param to use to distinguish user _ga and _gid
+Get and save user id param from google analytics on checkout page
+Send data to analytics on invoices.payment_succeeded event in webhooks
+Gather and prepare data to send to the google analytics
+Add tests for login, logout
+Update, show endpoints for collections
+Remove grouping for items in collection
+Update, delete items endpoints
+Validation for authentication
+Endpoints to pull colors and backgrounds
+Add is published field for designer collection
+Filter by name backgrounds and colors
+Add tests and swagger description
+Add prefixes to transaction IDs
+Division by zero on public lessons
+Add subscription_create prefix for first paid subscription
+SSO integration research
+Delete user issue with subscription
+Media library for phases
+Get recent endpoint missed
+Invite to the workspace with Team issues
+Card input bug
+Cannot delete card
+Cannot rename card
+Sales receipt not generated
+Endpoint for uploading files
+5:47 The customer is receiving a notification for every image
+1:47 rename “It is in progress” to "In Progress"
+Text change on emails
+payment error
+Excel download in Payments or Transactions
+Job in searching
+Optimize images on main page (condition webp or png) (server)
+Testing staging
+Fix bugs by testing
+Ticket communication
+Bugs in staging
+phone number input bug
+card transfer
+Incorrect name
+Add card algorithm (check)
+Login/Sign in form bug
+Incorrect validator
+Select category bug
+Favorites bug
+Incorrect report
+Add to favorites
+Bugs stage
+Bug fixing
+Search not working correctly
+Amount displayed incorrectly
+Incorrect creation and processing of the logic of forming favorites
+In the mobile version of the site, when you go to the tab
+Need to replace maps API key
+Redo styles in history
+Success/Failure notify markup
+Portfolio uploading Error in safari and firefox
+Change text
+Incorrect address format
+Incorrect format
+Safari problem
+design for jobs and job quotes
+Optimize images on main page (condition webp or png) (front)
+Check performance and act according to the conditions
+ Pipelines for apk
+Tests of a new power module with MPPT charging
+Schedule this epic
+Test service refactor, create a repository, hook up the pipeline
+Write a device peripheral power management library
+Write a settings management class
+Write a streaming class (either ffmpeg)
+Write a class for collecting metrics
+Pipeline fix for saving configs
+Write a script for updating configs on the device
+Add stream autostart when going to the camera page
+Add camera name to camera page
+On the camera page, reduce the size of the player using the buttons
+Energy optimization
+Fix bot logic
+Device tests after power optimization
+New power module with solar charging and MPPT control
+Hanging cameras in Osh
+Moving to a new server
+Scatter pins on the map for Osh
+Prepare case renders for presentation
+Set up logging on the prod
+Printing a new case
+solar panel logger
+Rollover to RPi
+Research on stream delivery options with Rpi to the front
+Conduct research on food delivery options on Rpi
+Power module for RPI
+Mega battery charger
+Firmware
+Device tests
+Fix overflow with citycam.kg and 2.citycam.kg logs
+Stream delay optimization
+[backend/frontend] Keep last screenshot in preview while camera is on page
+Communications Anton
+Gaukhar Communications
+Gaukhar Communications
+Develop a new backing
+Gaukhar Communications JULY 2021
+Draw architecture options for communicating with raspberries - streaming - back - admin panel
+Draw the architecture of interactions of new devices based on raspberries
+Shutdown the old sitecam server
+Choose a streaming service and raise it
+Refine models by device attributes
+Learn how to do a preview on react from a stream
+[Front] Modify the camera page in the admin panel connect the player with the stream
+Refine the service for getting settings for the device
+Improve api getting a list of cameras for the front
+[Front] On the camera page, implement the player
+Communication Gennady
+Run project locally
+Prepare CI and configuration for delivery
+Set up a web server
+Connect sentry and fix any errors
+Set up TLS for streaming
+Launch a site (frontend) for local development
+Update package responsible for authentication in api
+Set up dependencies for django
+[Front] Test registration/authentication
+[Front] Remove call to last-image-url on camera pages
+[Front] Integrate OvenPlayer
+[front] Fix map bug
+Transfer current staging to prod
+Communication Gennady JULY
+Set up a deployment and make a delivery for the site
+[OME] Restrict access to a service
+Add ability to edit jobs dates for a future testing
+Export Data to excel files from Admin Panel
+Add confirmation dialog before deleting in admin panel
+Change endpoint count_unpaid_jobs to show Paused Providers
+Fix the redirect loop after sign in
+Recheck and fix files view from admin panel before provider activation
+Job workflow exclusive time period for providers
+Visualize the current workflow with a clear representation of how it's working and how it will be changed
+Customer Feedback (241-231)
+Job created by not authorized user was not created after sign up (Firefox)
+Show to customer the error message after postcode search and first address don't fit
+Change the order of Jobs hint for mobile browser's view
+“Find a Tradesperson” button is being cut off the screen
+Fix link "What is urgent booking?" in the Sign Up process
+Fix layout of services during services confirmation
+Fix redirect to sign in after successful 3D Secure and going back from the successful page
+Job workflow when 1st provider declining the job
+Analyze the possibility to pass over image for a job when it is recreated at No Providers Found.
+Create design for email template
+Help with transforming PWA into Google Play
+Show students quantity at course preview
+Final modifications for EVN blog
+Check related posts previews at blogpost page
+Add GTM datalayer code to track social sign in/up with Google Analytics
+Remove learning.edumall.co.th and lms.edumall.vn from indexing
+Adjust GA Ecommerce reports to show type of transaction
+Research about elastic cache - redis instances, delete unused instances
+Configure alert and grafana dashboards
+Move elasticsearch from spot instances to ondemand
+Configure s3 cache for gitlab-runner
+Fix lifecycle policy for ecr
+Update CD for all projects, start test stage only from MR and only from Master branch
+Auth for APM service
+Create resource list
+Cost optimization
+Research about "data validation error" for apm service
+Production monitoring system not working
+Enable cloudflare CDN cache for static-resize service
+Separate gitlab-runner for EVN and ETL
+Change quality for static-resize service
+Deploy EVN and ETL
+Restore staging graylog
+Check for errors when the packer builds at the same time (Magento)
+Prepare instruction to restore database, re-deploy magento after failed deploy
+Prepare cost for old and new production for ETL
+Restoration of the monitoring and log system
+Deploy EVN and ETL
+Research about tests stage frozen and add fix
+Prepare documentation for Magento
+Fix images resize logic
+Code review feedback
+[Markup] Select background modal
+[Markup] Cover phase
+[Markup] Update toolbar icons
+[Markup] Update template/assignment item(UI)
+[Markup] Add empty state for cover phase
+Research agora.io(Front part)
+Merge Whiteboard, Canvas and Agora components
+Create teacherly account on agora.io
+[Frontend] Ability to start/finish lesson
+[Frontend] Manage room settings
+[Frontend] Ability to mute all students
+[Frontend] Camera/Micro settings
+[Frontend] Student can leave live lesson
+[Frontend] Prepare student's app
+[Frontend] Getting token from API
+[Frontend] Students list dropdown
+[Frontend] Switch between camera/canvas
+[Fronted] Join screen
+Move Agora logic to the custom hook
+Add video/audio controls for JoinScreen and WaitingTeacher screens
+Fix problems with templates
+Bug with templates after changing workspace in a unit
+Rewrite agora logic using ng sdk
+Add sorting by current volume
+Add camera/micro info into student's list dropdown
+Disable whiteboard after start lesson
+Update waiting screen markup
+Add screens for RECONNECT/DISCONNECT states
+Bug with height on iPad(100vh)
+Replace slider with native scroll
+Wordings for some screens
+Add ErrorBoundary
+Disable Agora logs
+Check ability to use different users count on different breakpoints
+Error with play
+Lessons slider
+Lesson item markup
+unit tests
+Lesson details logic
+Add notification if connection is bad
+Problem with websockets
+[Whiteboard] Multiple selection bug
+empty states
+adaptive markup
+0 - Pagination for notifications
+Add free/pro plan handling on front
+Merge test folders
+Merge infrastructure(Remove /new-design folder)
+Next.JS research
+Tests for src folder
+Tests for containers/*(include folders)
+Tests for hocs
+Tests for pages
+Tests for store(Actions, Epics, Reducers, Selectors)
+Tests for utilities
+Refactor UI-Components Icon
+Resolve problems with window object
+Fix color pickers markup
+Update markup for search tab
+Handle undo/redo
+Endpoint for lesson list
+Fix problems with docker hub
+Incorrect markup on disabled icon
+Markup for follow teacher logic
+Check and update calendar component logic
+[Backend] Update endpoints
+Audio cannot play on canvas
+Handle canvas-sketch ellipse, polygon, image elements
+500 error on update mastery skills endpoint
+Subjects not found
+handle react sketch text
+Handle live lesson assignment phase switch
+Fix each phase sketch-state bug
+whiteboard unit tests
+whiteboard documentation
+Handle whiteboard on a student dashboard
+Integrate color, tool control panel with whiteboard
+Follow teacher by student
+Enable student whiteboard canvas events
+Fix the logic and passed data of Notifications in the students' app
+[Back end] Update fields of the endpoint
+The deployment of the job to staging did not succeed.
+[UI-components] Develop onboarding widget's markup
+Develop markup and logic of user actions
+Discuss implementation of the animation and add to the markup
+Handle logic of steps of onboarding
+Add stories, snapshots and refactoring for OnboardingWidget component
+Deal with the Tooltip component's issue
+[Feedback] Add JSDoc for changed files and add a unit-test for ListItem component
+Add required data (classes) to the student's app and learn the current logic
+Develop the markup of the page
+Add JSDoc descriptions for components
+Correct and add new unit-tests
+Add the infinite scroll for the classes list and the required endpoint
+Add reusable header component and check the markup a pixel-perfect
+Develop the markup of the page
+Implement the pagination's (load more button) logic with new data and refactor the store
+Add required data to update the endpoints and fill lessons with data
+Update AssignmentItem in the ui-components for the students app
+Develop the filter functionality by statuses and it's layout
+Add empty page, loader, back to button and check in main browsers
+Add background color and size prop for icon in the AssignmentItem component
+Add JSDoc description, refactor the code according to the code style and fix failed tests
+Update StatusButton UI component to make applicable for students
+Add ProfileInfo component, FixedHeader and adaptive styles for the wrapper of the page
+Transfer StudentItem component from teachers's app
+Add JSDoc descriptions and fix tests
+Work on the feedback. Get rid of class component, use react-use library instead.
+Identify what data is needed for new design, review endpoints' responses
+Figure out the logic of components in the teacher's and student's apps and develop new component according to new design.
+Fix an infinite scroll's logic for the My Profile page
+Identify and correct filter's functionality for journeys
+Fix slider dot's markup
+Create new store for the updated version of the journey's endpoint
+Develop Outcomes and MasterySkills sections' logic and markup
+Identify required data for notifications and fix crashing of CalendarCustomView in old design
+Develop Quizzes section of assignment's dropdown with Modals
+Add adaptive styles for the dropdown
+Refactor class components to functional
+Investigate the task
+Work on the feedback
+Fix ClassItem UI component
+Add main unit tests and refactor Classes view component
+Transfer components from the teacher's app
+Fix and update UI components of the calendar
+Identify the missing data to update the endpoint and UI components
+Work on the 'Today' button's logic
+Update markup and logic of controls of the calendar
+Refactor class components to functional
+Add JSDoc descriptions
+Fix updating logic of the calendar
+ERROR: Job failed: command terminated with exit code 1
+Add unit tests
+Update empty case and fix minor bugs
+Add an animation for 'today' case of the calendar component
+Fix dropdown component's styles in the ui-components
+Make minor style and wording changes for classes page and update dropdown's version.
+Rewrite styles with styled-components
+Investigate the task
+Handle the logic of the modal
+Add styles for Rate block of the modal
+Add the 'Master Skills' block
+Fix Unit tests setup and add tests
+Add JSDoc descriptions
+Fix bugs after testing
+Fix markup bugs
+[Bugs] Fix bugs after testing
+Investigate the task
+Handle cover background in components
+Update versions of components in student's and teacher's apps and handle withNavigationWeek prop's logic
+Research a problem with testing styled-components
+Cover classes page with tests
+Cover EmptyPage component with tests
+[Schedule] Automatically select the Week tab when breakpoint changes.
+Fix bugs in the Day component
+Fix bugs in the Week component
+Fix bugs in the Month component
+Check and update version of the ui-component in students and teachers apps
+Examine subtasks
+Check and update UI components' versions in students and teachers apps
+Investigate the task
+Handle new quizzes' results view
+Add 'Master skills' section and adaptive styles
+Refactor class components and add JSDoc
+Investigate the task
+Add Toast and Alert components. Configure their logic globally.
+Take out logic of toast in the LessonPreview and modify it's store
+Add Toast component to Question component
+Fix styles of Toast Alert in the teacher's app
+Frontend: Learn the codebase and estimate
+0 - Frontend: Assign Search Form Block
+Frontend: Develop markup of Assign Search Form
+Frontend: Develop the logic of Assign Search Form
+Frontend: Improve the 'InviteStudent' component
+Frontend: Develop AssignClassItem component
+0 - Frontend: Develop AssignClassItem component
+Add unit tests and storybooks
+Add adaptive sizes to toast notifications in students' and teachers' apps
+Frontend: Develop empty class case
+0 - Add React Testing Library to the Teachers repo
+Fix the content of breadcrumbs on the translation history page
+Terminal map not loading
+Download button not working
+Fix a typo in the check and refactor the code in paymentsCheckPage
+Add new endpoint for classes with a pagination
+Update the endpoint of the class assignments
+[Back end] Add explanation data to quizzes object
+Create new version of schedules endpoint with updated payload
+Enable teacher to restart finished live session
+Collaborators modal is not closing
+Backend: Research agora.io
+Research timeout exceed error
+Backend: Configure live lesson logic
+Add agora service directory and configure Facade
+Add endpoint that generates token
+Add live lesson model and configure live lesson status changes
+Refactor payload in token generation endpoint
+Handle case, when assignment does not have related live session
+Backend: Investigate how session work
+Backend: Configure email notifications on live lesson start
+Backend: Configure teachersly notifications on live lesson start
+Backend: Refactor token generation ednpoint
+Extend life time of agora token
+Cannot delete teacher image in HR dashboard
+Backend: Plan the implementation and estimate
+Backend: Refactor endpoint that retrieves classes
+Add students count and filter by name
+Check old logic with refactored endpoint and write tests
+Backend: Create /student-names V2 endpoint
+Add /student-namesV2 ednpoint
+Check logic and add tests
+Research endpoint to crea assignment
+Change button style in Teacher Whiteboard on screen when lesson finishes automatically on Free plan.
+whiteboard design
+Layout template modal preview
+Work with Lesson Preview Mode New Layout
+Exploring lesson design
+Design Links in Canvas
+Sign In Sign Up Pop Up design
+add podcast design to learn section
+Remake lesson in canvas
+Podcast design for TeachMe
+Teach Me Landing Design
+Teach Me Concept Design
+Teach Me Pricing Design
+Add Covers to lessons (Slate)
+Research pattern system for avatars and covers
+Create pattern System for avatars and covers
+Create quick template mockup
+Redesign lesson templates
+Add Tooltips on Whiteboard Toolbar and Bottom Navigation, when hovering
+“Community” section, layout and components
+Teacher Whiteboard screen
+“Exploring Lessons” - Tutorial template
+Adding link to SVG image and Text layer in Canvas
+Redesign lesson templates for "Lesson gallery"
+Sign In / Sign Up Modal window
+Share/Invite user modal window - From canvas template
+Logic on allow/decline access to microphone and camera (Whiteboard user flow)
+Breakpoints for “Whiteboard” bottom navigation bar (on screen <1024px)
+Canvas - modal window for adding: Standards, Mastery skills, Planning
+Share/Invite user modal window - From canvas template (via Link, Gmail, Slack, LinkedIn)
+Update Appearance for Lesson Templates
+TeachMe - podcasts and audio courses (Screens, UI components, Layouts)
+Whiteboard - Internet Connection quality widget
+TeachMe - Landing page, Prototyping User flow
+TeachMe - Adaptive Breakpoints (SM, MD)
+Student Dashboard - empty states
+Hiding and Opening Toolbar control - on Whiteboard
+Quizzes - screen placeholder empty state on case without results (Student, Teacher)
+Update lesson card view - Accessibility UI color
+Canvas - Share modal window - Enable / Disable link access
+Redesign lesson templates for “Lesson gallery”
+"Upgrade to Pro" - Button on teacher dashboard
+Whiteboard - Waiting Room
+New Teacher dashboard Layouts
+The condition "nothing was found in the search" was not processed and there is no transliteration
+Final feedback on layout
+Cursor slides out when selecting a category in favorites
+Change the display order of icons in the menu
+in case there is one card, the transfer to the same card allows you to send.
+Shift of menu icons due to the appearance of a scroll bar
+Add autoscroll to FAQ page
+Add Autoscroll to User Agreement Page
+Add code obfuscation
+Change the phone number icon on the registration page
+Pin the top menu so that it stays in place when scrolling the page
+Add selected service validation to undefined
+Fix the display of menu items on the left
+Menu icons shift when opening help sections
+ATM card not working on Vivaldi
+Add masks when paying for services
+Add a service availability check in the list and when one service is selected
+Add error handler and empty list
+Check error handling for translations according to the table
+Check the compliance of the statement data depending on the card
+Lesha Medvedev's data is displayed in the "Change data" section
+No masks when adding services to favorites
+The text is cut off when adding a service to favorites, if the name is long
+Microsoft Edge has an extra character when signing in
+Search logo is crooked in Microsoft Edge
+Filter options are cut off on the ATM page in Edge
+Communication Belek
+Add Basic Authentication for API to Cameras
+[back] Set up sending emails after registration
+Update camera status to inactive when there are no settings requests
+Check why the script deactivates the active camera
+Build one graph according to existing datasets
